@@ -1,5 +1,7 @@
 ## Learn Terraform Import
 
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/a4cfc8f8-80ba-444e-9f89-2874aa22150a.svg?orgId=274247396269)](https://app.soluble.cloud/repos/details/github.com/danstadler-lw/learn-terraform-import?orgId=274247396269)  
+
 Learn what Terraform import is and how to use it.
 
 Follow along with the [Learn Guide](https://learn.hashicorp.com/terraform/state/import) at
